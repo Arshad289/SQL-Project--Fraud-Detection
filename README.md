@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-green?logo=pandas&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-An end-to-end SQL-based fraud detection analysis on **100,000+ credit card transactions**, identifying fraudulent patterns through temporal analysis, geographic anomaly detection, merchant risk profiling, and transaction amount segmentation.
+An end-to-end SQL-based fraud detection analysis on **1.3M+ credit card transactions**, identifying fraudulent patterns through temporal analysis, geographic anomaly detection, merchant risk profiling, and transaction amount segmentation.
 
 ---
 
