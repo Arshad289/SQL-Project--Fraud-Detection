@@ -3,7 +3,7 @@
 -- Author: Arshad Ali Mohammed
 -- GitHub: https://github.com/Arshad289
 --
--- Analyzes 100,000+ credit card transactions to identify
+-- Analyzes 1,300,000+ credit card transactions to identify
 -- potentially fraudulent activities using SQL queries.
 --
 -- Dataset: Credit Card Transactions (Kaggle)
