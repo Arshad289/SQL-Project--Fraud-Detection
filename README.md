@@ -88,7 +88,7 @@ Comparison of legitimate vs. fraudulent transaction amount distributions, with f
 ### 4. Suspicious Pattern Detection
 - **Repeat fraud cards** — Cards with 3+ fraud incidents
 - **Rapid successive transactions** — Same card used within 10 minutes
-- **Geographic anomalies** — Transactions 100+ miles apart within 1 hour (card cloning indicator)
+- **Geographic anomalies** — Transactions 100+ miles apart within 1 hour (card cloning indicator). Distance is computed using the Haversine formula
 - **High-risk merchants** — Merchants with abnormally high fraud rates
 
 ### 5. Demographic Patterns
